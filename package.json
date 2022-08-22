@@ -1,7 +1,7 @@
 {
   "name": "interactive-rating-component",
   "version": "0.1.0",
-  "homepage": "https://iowsla.github.io/interactive-rating-component/",
+  "homepage": "https://github.com/iOwsla/interactive-rating-component",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
