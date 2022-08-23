@@ -1,2 +1,2 @@
 # interactive-rating-component
-challange
+https://iowsla.github.io/interactive-rating-component/
